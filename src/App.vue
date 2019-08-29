@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Welcome to nam Vue.js App"/>
   </div>
 </template>
 
@@ -14,7 +14,7 @@ export default {
     HelloWorld
   }
 }
-</script>
+</script>git remote add origin https://github.com/npv14/asdsa.git
 
 <style>
 #app {
